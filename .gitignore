@@ -1,2 +1,4 @@
 Sessions/
+__pycache__/
+*.pyc
 photo1.jpg
